@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhinav
-- 👀 I’m interested in Automation using Java Selenium, GCP
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on Java, Selenium, GCP
+- 👀 I’m interested in AWS and GCP Cloud devops
+- 💞️ I’m looking to collaborate on AWS, GCP, Terraform, Ansible, Kubernetes
 - 📫 How to reach me -drop me a message
 
 <!---
